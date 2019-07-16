@@ -1,0 +1,43 @@
+# Introducción a la calidad
+- **Definición**
+  - Es una cualidad y propiedad inherente de las cosas
+  - aptitud para satisfacer una necesidad dada.
+- **Crosby**: 
+  - Calidad = conformidad con requerimientos
+  - Calidad surge de la prevención
+  - No se deben tolerar errores
+- **Evolución de la calidad**:
+  - 1920-1950: Control de calidad (producto). Evaluar la calidad.
+  - 1950-1970:Aseguramiento de la calidad (cliente). Actividades para proporcionar confianza en que se cumplirán los reqs de calidad de un producto.
+  - 1970-1990:Calidad total (Empresa). Filosofía, cultura, estrategia o estilo de gerencia de una empresa según la cual todas las personas en la misma, estudian, practican, participan y fomentan la mejora continua de la calidad
+- **Juran**: Todos los niveles participan en la calidad.
+# Introducción a la calidad en software
+- **Definición de software**: IEEE:El software es: Programas informáticos, procedimientos y, posiblemente, documentación asociada y datos relacionados con el funcionamiento de un sistema informático.
+- **Calidad de un producto de software**: Conformidad con los requisitos funcionales y de rendimiento explícitamente establecidos, los estándares de desarrollo documentados explícitamente y las características implícitas que se esperan de todo el software desarrollado profesionalmente.
+- **Calidad interna vs externa**: Interna: código. Externa: la que ve el usuario. Relacionadas de forma debil.
+- QC= Trabajo con requerimientos, testing, revisión de código.
+- QA=Acciones para proporcionar confianza de que un proceso cumpla con reqs. (IEEE)
+- **Calidad según ISO/IEC**: listado tipo arq.
+- **McCall software quality model**:
+  - Revisión. Facilidad de aplicar cambios.
+  - Transición. Adaptación a nuevo ambiente.
+  - Operación. Cumplir necesidades sin fallas.
+- **Boehm Software quality model**:
+  - Primitive level characteristics
+  - Intermediate level characteristics
+  - High level characteristics
+- ¿Cómo se gestiona la calidad?
+  - QA
+  - QC
+  - Planeamiento
+  - Mejora contínua
+- Juran: trilogía de la calidad. Quality Management=
+  - Quality planning
+  - Quality control
+  - Quality improvement
+- Entregables: 
+  - Plan de gestión
+  - Plan de mejora
+  - métricas de calidad
+  - lista de verificación
+- Deming: implementación: Plan-do-check-act
